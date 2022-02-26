@@ -1,2 +1,3 @@
-# tic-tac-toe
-This is a Tic-tac-toe game 
+# Tic-Tac-Toe
+
+## This is a Tic-tac-toe game.
